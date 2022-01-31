@@ -1,2 +1,2 @@
-# datascience
-Pieces of code I write for learning new data science skills using Python, SQL, etc.
+# transitmodel
+An ETA (estimated time of arrival) model developed for public transit
